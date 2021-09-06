@@ -5,3 +5,4 @@ Inventory Management System is a system developed for saving records of purchase
 1. Maintain the records of purchase.
 2. Maintain the records of sales.
 3. Generate the bills for customer
+4. System adds the product with the unique id if it is missing in records.
