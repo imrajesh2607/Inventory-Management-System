@@ -1,4 +1,4 @@
-# Inventory-Management-System
+# Inventory Management System
 The inventory management system helps to track the purchases made and keep a record of the stock left. We can also generate bills in an efficient way using Inventory Management System.
 
 ### Features:
