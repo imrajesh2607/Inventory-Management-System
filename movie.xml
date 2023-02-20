@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<0>
+		<id>324857</id>
+		<rating>7.5</rating>
+		<title>Spider-Man: Into the Spider-Verse</title>
+		<poster>https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</poster>
+		<overview>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson 'Kingpin' Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</overview>
+		<release_date>1544140800</release_date>
+		<genres>Action</genres>
+		<genres>Adventure</genres>
+		<genres>Animation</genres>
+		<genres>Science Fiction</genres>
+		<genres>Comedy</genres>
+	</0>
+	<1>
+		<id>157433</id>
+		<rating>6.5</rating>
+		<title>Pet Sematary</title>
+		<poster>https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg</poster>
+		<overview>Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie 'Pet Sematary' located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.</overview>
+		<release_date>1554339600</release_date>
+		<genres>Thriller</genres>
+		<genres>Horror</genres>
+	</1>
+	<2>
+		<id>299534</id>
+		<rating>7</rating>
+		<title>Avengers: Endgame</title>
+		<poster>https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg</poster>
+		<overview>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.</overview>
+		<release_date>1556067600</release_date>
+		<genres>Adventure</genres>
+		<genres>Science Fiction</genres>
+		<genres>Action</genres>
+	</2>
+	<3>
+		<id>287947</id>
+		<rating>5.5</rating>
+		<title>Shazam!</title>
+		<poster>https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg</poster>
+		<overview>A boy is given the ability to become an adult superhero in times of need with a single magic word.</overview>
+		<release_date>1553299200</release_date>
+		<genres>Action</genres>
+		<genres>Comedy</genres>
+		<genres>Fantasy</genres>
+	</3>
+	<4>
+		<id>299537</id>
+		<rating>8</rating>
+		<title>Captain Marvel</title>
+		<poster>https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg</poster>
+		<overview>The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.</overview>
+		<release_date>1551830400</release_date>
+		<genres>Action</genres>
+		<genres>Adventure</genres>
+		<genres>Science Fiction</genres>
+	</4>
+	<5>
+		<id>522681</id>
+		<rating>7.5</rating>
+		<title>Escape Room</title>
+		<poster>https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg</poster>
+		<overview>Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.</overview>
+		<release_date>1546473600</release_date>
+		<genres>Thriller</genres>
+		<genres>Action</genres>
+		<genres>Horror</genres>
+		<genres>Science Fiction</genres>
+	</5>
+	<6>
+		<id>166428</id>
+		<rating>9</rating>
+		<title>How to Train Your Dragon: The Hidden World</title>
+		<poster>https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg</poster>
+		<overview>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</overview>
+		<release_date>1546473600</release_date>
+		<genres>Animation</genres>
+		<genres>Family</genres>
+		<genres>Adventure</genres>
+	</6>
+	<7>
+		<id>450465</id>
+		<rating>4.5</rating>
+		<title>Glass</title>
+		<poster>https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg</poster>
+		<overview>In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</overview>
+		<release_date>1547596800</release_date>
+		<genres>Documentary</genres>
+	</7>
+	<8>
+		<id>495925</id>
+		<rating>8.5</rating>
+		<title>Doraemon the Movie: Nobita's Treasure Island</title>
+		<poster>https://image.tmdb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg</poster>
+		<overview>The story is based on Robert Louis Stevenson's Treasure Island novel.</overview>
+		<release_date>1520035200</release_date>
+		<genres>Animation</genres>
+	</8>
+	<9>
+		<id>329996</id>
+		<rating>6</rating>
+		<title>Dumbo</title>
+		<poster>https://image.tmdb.org/t/p/w500/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg</poster>
+		<overview>A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.</overview>
+		<release_date>1553644800</release_date>
+		<genres>Adventure</genres>
+		<genres>Family</genres>
+		<genres>Fantasy</genres>
+	</9>
+	<10>
+		<id>299536</id>
+		<rating>7.5</rating>
+		<title>Avengers: Infinity War</title>
+		<poster>https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</poster>
+		<overview>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</overview>
+		<release_date>1524618000</release_date>
+		<genres>Adventure</genres>
+		<genres>Action</genres>
+		<genres>Science Fiction</genres>
+	</10>
+	<11>
+		<id>458723</id>
+		<rating>7</rating>
+		<title>Us</title>
+		<poster>https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg</poster>
+		<overview>Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.</overview>
+		<release_date>1552521600</release_date>
+		<genres>Documentary</genres>
+		<genres>Family</genres>
+	</11>
+	<12>
+		<id>424783</id>
+		<rating>7</rating>
+		<title>Bumblebee</title>
+		<poster>https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</poster>
+		<overview>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</overview>
+		<release_date>1544832000</release_date>
+		<genres>Action</genres>
+		<genres>Adventure</genres>
+		<genres>Science Fiction</genres>
+	</12>
+	<13>
+		<id>920</id>
+		<rating>5</rating>
+		<title>Cars</title>
+		<poster>https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg</poster>
+		<overview>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.</overview>
+		<release_date>1149728400</release_date>
+		<genres>Animation</genres>
+		<genres>Adventure</genres>
+		<genres>Comedy</genres>
+		<genres>Family</genres>
+	</13>
+	<14>
+		<id>456740</id>
+		<rating>7.5</rating>
+		<title>Hellboy</title>
+		<poster>https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg</poster>
+		<overview>Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.</overview>
+		<release_date>1554944400</release_date>
+		<genres>Fantasy</genres>
+		<genres>Action</genres>
+	</14>
+	<15>
+		<id>537915</id>
+		<rating>6.5</rating>
+		<title>After</title>
+		<poster>https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg</poster>
+		<overview>A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.</overview>
+		<release_date>1554944400</release_date>
+		<genres>Mystery</genres>
+		<genres>Drama</genres>
+	</15>
+	<16>
+		<id>485811</id>
+		<rating>8</rating>
+		<title>Redcon-1</title>
+		<poster>https://image.tmdb.org/t/p/w500/vVPrWngVJ2cfYAncBedQty69Dlf.jpg</poster>
+		<overview>After a zombie apocalypse spreads from a London prison, the UK is brought to its knees. The spread of the virus is temporarily contained but, without a cure, it’s only a matter of time before it breaks its boundaries and the biggest problem of all… any zombies with combat skills are now enhanced. With the South East of England quarantined from the rest of the world using fortified borders, intelligence finds that the scientist responsible for the outbreak is alive and well in London. With his recovery being the only hope of a cure, a squad of eight Special Forces soldiers is sent on a suicide mission to the city, now ruled by the undead, with a single task: get him out alive within 72 hours by any means necessary. What emerges is an unlikely pairing on a course to save humanity against ever-rising odds.</overview>
+		<release_date>1538096400</release_date>
+		<genres>Action</genres>
+		<genres>Horror</genres>
+	</16>
+	<17>
+		<id>471507</id>
+		<rating>7.5</rating>
+		<title>Destroyer</title>
+		<poster>https://image.tmdb.org/t/p/w500/sHw9gTdo43nJL82py0oaROkXXNr.jpg</poster>
+		<overview>Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.</overview>
+		<release_date>1545696000</release_date>
+		<genres>Horror</genres>
+		<genres>Thriller</genres>
+	</17>
+	<18>
+		<id>400650</id>
+		<rating>7.5</rating>
+		<title>Mary Poppins Returns</title>
+		<poster>https://image.tmdb.org/t/p/w500/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg</poster>
+		<overview>In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.</overview>
+		<release_date>1544659200</release_date>
+		<genres>Documentary</genres>
+	</18>
+</root>
